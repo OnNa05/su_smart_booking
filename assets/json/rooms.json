@@ -1,0 +1,18 @@
+{
+  "rooms": [
+    {
+      "id": "1",
+      "name": "room1",
+      "role": ["admin", "teacher", "student"],
+      "room_equipment": ["chair 6", "table 7"],
+      "usage": "non"
+    },
+    {
+        "id": "2",
+        "name": "room2",
+        "role": ["admin", "teacher"],
+        "room_equipment": ["chair 6", "table 99"],
+        "usage": "free"
+      }
+  ]
+}
